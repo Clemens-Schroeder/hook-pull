@@ -1,1 +1,1 @@
-# only to teschtli
+# only to teschtly
